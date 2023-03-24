@@ -5,7 +5,7 @@
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "description": "A new Flutter project.",
+    "description": "My Resume Website Implemented with Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
