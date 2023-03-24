@@ -16,8 +16,8 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "manifest.json": "3a7cf343600e32a7924d2bd9e9c2f71f",
-"index.html": "ee5eb421b4cacf38f32b68bcf18adc82",
-"/": "ee5eb421b4cacf38f32b68bcf18adc82",
+"index.html": "fb8515632556f31e61c98da9f4bae835",
+"/": "fb8515632556f31e61c98da9f4bae835",
 "assets/AssetManifest.json": "37a2bf143a5a4ef7ec37f4f9e2d6fb2f",
 "assets/FontManifest.json": "2b5561b77f434ea72563613d922a4931",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -30,7 +30,7 @@ const RESOURCES = {
 "assets/assets/fonts/english/Rubik-VariableFont_wght.ttf": "3a46dcaae30742e20d5e84a1ee799de9",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "35eb6079982aaa0def8fdf2bab9002dd",
-"main.dart.js": "d06c986a89309b2de3b1ae7c661df391"
+"main.dart.js": "cfd9cc5127f8339e55b745821fc92e10"
 };
 
 // The application shell files that are downloaded before a service worker can
